@@ -7,7 +7,7 @@ import img3 from './assets/img3.webp'
 
 function App() {
   return (
-    <div>
+    <div className="">
       <div>
 
         <div className="relative">
